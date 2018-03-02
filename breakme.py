@@ -1,7 +1,9 @@
-print "Hello World!"
+print "Hewwwefllo World!"
 print "Hello Again"
-print "I like typing this."
+
+
+print "I like tyasdfaewfwping this."
 print "This is fun."
-print 'Yay! Printing.'
+#print 'Yay! Printing.'
 print "I'd much rather you 'not'."
 print 'I "said" do not touch this.'
